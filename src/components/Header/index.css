@@ -1,0 +1,51 @@
+.header-light{
+    display:flex;
+    justify-content: space-between;
+    background-color:#f9f9f9;
+}
+.header-dark{
+    display:flex;
+    justify-content: space-between;
+    background-color:#181818;
+}
+.dark-logo{
+    height:10vh;
+}
+.contact-icon{
+  height:30px;
+}
+.item-light{
+  background-color:#f9f9f9;
+  height:100vh;
+  background-size:cover;
+  color:black;
+  padding:30px;
+  width:15vw;
+}
+.item-dark{
+   background-color:#181818 ;
+  height:100vh;
+  display:flex;
+  color:white;
+  padding:30px;
+  width:15vw;
+}
+.links{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+  height:50px;
+
+}
+.side-bar{
+  display:flex;
+  flex-direction:column;
+  justify-content: space-between;
+  height:85vh;
+}
+.contacts{
+  display:flex;
+  width:160px;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,21 @@
+.links{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+  height:50px;
+
+}
+.side-bar{
+  display:flex;
+  justify-content: space-between;
+  height:85vh;
+}
+.contacts{
+  display:flex;
+  width:160px;
+  justify-content: space-evenly;
+}
+.contact-icon{
+  height:30px;
+}

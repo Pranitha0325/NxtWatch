@@ -1,0 +1,9 @@
+.image{
+    height:20vh;
+}
+.list{
+    list-style:none;
+}
+.items{
+    display:flex;
+}
